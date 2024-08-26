@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas Vindas ao Meu Perfil 
 
-<!--
-**Chris170708/Chris170708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Christian Riquellme
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entrar em contato comigo 📫
+
+00001251485339sp@al.educacao.sp.gov.br
+
+@chrstn.rq
+
+
+<img src="https://media1.tenor.com/m/ODcA3RsuMQgAAAAd/monkey-selfie.gif" alt="a close up of a black monkey &#39;s face"/>![image](https://github.com/user-attachments/assets/d533525e-a1db-4197-abd7-c0b3e0f110e8)
